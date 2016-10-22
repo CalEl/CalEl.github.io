@@ -1,3 +1,4 @@
+
 /* Write Awesome CSS here */
 
 /* General stuff */
@@ -59,6 +60,71 @@ p {
 .Footer {
   max-width: 100%;
   text-align: center;
+  height: auto;
+  background-color: #fff;
+  padding: 25px;
+}
+=======
+/* Write Awesome CSS here */
+
+/* General stuff */
+body {
+  background-color:  #333;
+}
+
+p {
+  font-family:  Arial;
+  font-size: 1.1em;
+}
+
+/* ID */
+
+#Heading {
+  font-family: Georgia;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#Nav-bar {
+  width: 100%;
+  text-align: left;
+  padding: 25px;
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+/* Classes */
+
+.Container {
+  max-width: 80%;
+  margin: auto;
+}
+
+.Header {
+  max-width: 100%;
+  height: auto;
+  background-color: #fff;
+  padding: 25px;
+}
+
+.Navigator {
+  max-width: 100%;
+  height: auto;
+  background-color: #CCC;
+  padding: 0px;
+}
+
+.Content {
+  max-width: 100%;
+  height: auto;
+  background-color: #fff;
+  padding: 25px;
+  font-family: Arial;
+}
+
+.Footer {
+  max-width: 100%;
   height: auto;
   background-color: #fff;
   padding: 25px;
