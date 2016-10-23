@@ -14,7 +14,7 @@ p {
 
 #Heading {
   font-family: Georgia;
-  font-size: 2em;
+  font-size: 3em;
   font-weight: bold;
 }
 
@@ -27,8 +27,14 @@ p {
   font-weight: bold;
 }
 
-#content-bar {
-  width: 100%;
+#conten-info {
+  font-family: Arial;
+  font-size: 1.2em;
+  color: #CCC;
+  text-align: left;
+}
+
+#social-bar {
   background-color: #666;
 }
 
