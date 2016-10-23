@@ -27,6 +27,16 @@ p {
   font-weight: bold;
 }
 
+#content-bar {
+  max-width: 90%;
+  background-color: #666;
+}
+
+#social-table {
+  width: 100%;
+  text-align: left;
+}
+
 /* Classes */
 
 .Container {
