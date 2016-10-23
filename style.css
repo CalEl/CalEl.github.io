@@ -45,6 +45,12 @@ p {
   margin: auto;
 }
 
+.Divider {
+  width: 100%;
+  background-color: #333;
+  height: 10px;
+}
+
 .Header {
   max-width: 100%;
   height: auto;
@@ -55,7 +61,7 @@ p {
 .Navigator {
   max-width: 100%;
   height: auto;
-  background-color: #CCC;
+  background-color: #000;
   padding: 0px;
 }
 
