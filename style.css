@@ -35,6 +35,8 @@ p {
 #social-table {
   width: 100%;
   text-align: left;
+  padding: 25%;
+  color: #fff;
 }
 
 /* Classes */
