@@ -69,6 +69,7 @@ p {
 .Footer {
   max-width: 100%;
   text-align: center;
+  font-style: italic;
   height: auto;
   background-color: #fff;
   padding: 25px;
