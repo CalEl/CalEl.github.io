@@ -81,6 +81,12 @@ p {
   padding: 25px;
 }
 
+.Content , p {
+  font-family: Arial;
+  font-size: 1em;
+  color: #000;
+}
+
 .Footer {
   max-width: 100%;
   text-align: center;
