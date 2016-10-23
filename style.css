@@ -28,10 +28,13 @@ p {
 }
 
 #conten-info {
+  text-align: left;
+}
+
+#content-info, p {
   font-family: Arial;
   font-size: 1.2em;
   color: #CCC;
-  text-align: left;
 }
 
 #social-bar {
