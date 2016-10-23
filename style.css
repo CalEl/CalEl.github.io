@@ -31,7 +31,7 @@ p {
   text-align: left;
 }
 
-#content-info, p {
+#content-info > p {
   font-family: Arial;
   font-size: 1.2em;
   color: #CCC;
@@ -81,7 +81,7 @@ p {
   padding: 25px;
 }
 
-.Content , p {
+.Content > p {
   font-family: Arial;
   font-size: 1em;
   color: #000;
