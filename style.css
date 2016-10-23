@@ -27,6 +27,11 @@ p {
   font-weight: bold;
 }
 
+#content-title {
+  font-size: 2em;
+  font-weight: bold;
+}
+
 #conten-info {
   text-align: left;
 }
