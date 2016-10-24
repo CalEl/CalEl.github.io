@@ -66,6 +66,7 @@ p {
 .Header {
   max-width: 100%;
   height: auto;
+  border: 5px #333 dotted;
   background-color: #fff;
   padding: 25px;
 }
