@@ -19,7 +19,7 @@ p {
   width: 100%;
   text-align: left;
   padding: 25px;
-  color: #fff;
+  color: #333;
   font-size: 1.5em;
   font-weight: bold;
 }
@@ -72,7 +72,6 @@ p {
 .Navigator {
   max-width: 100%;
   height: auto;
-  background-color: #000;
   padding: 0px;
 }
 
