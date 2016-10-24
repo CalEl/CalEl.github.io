@@ -41,13 +41,14 @@ p {
 }
 
 #social-bar {
-  background-color: #666;
+  border: 1px #333 solid;
 }
 
 #social-table {
   text-align: left;
   padding: 25px;
-  color: #fff;
+  color: #333;
+  font-size: 1.2em;
 }
 
 /* Classes */
