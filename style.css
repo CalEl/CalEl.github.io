@@ -27,6 +27,7 @@ p {
 #content-title {
   font-size: 2em;
   font-weight: bold;
+  font-family: fantasy;
 }
 
 #conten-info {
@@ -84,8 +85,8 @@ p {
 
 .Content > p {
   font-family: Arial;
-  font-size: 1em;
-  color: #000;
+  font-size: 1.1em;
+  color: #333;
 }
 
 .Footer {
