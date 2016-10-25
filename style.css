@@ -93,9 +93,9 @@ p {
 }
 
 .frontpage-colums {
-  -webkit-columns: 2 200px;
-     -moz-columns: 2 200px;
-          columns: 2 200px;
+  -webkit-columns: 3 400px;
+     -moz-columns: 3 400px;
+          columns: 3 400px;
 }
 
 .Footer {
