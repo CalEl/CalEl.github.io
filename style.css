@@ -93,7 +93,6 @@ p {
 }
 
 .frontpage-colums {
-               border: 1px #333 solid;
       -webkit-columns: 3 400px;
          -moz-columns: 3 400px;
               columns: 3 400px;
