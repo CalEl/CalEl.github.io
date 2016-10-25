@@ -93,11 +93,17 @@ p {
 }
 
 .frontpage-colums {
-  border: 1px #333 solid;
-  -webkit-columns: 3 400px;
-     -moz-columns: 3 400px;
-          columns: 3 400px;
-          margin-top: 10px;
+               border: 1px #333 solid;
+      -webkit-columns: 3 400px;
+         -moz-columns: 3 400px;
+              columns: 3 400px;
+   -webkit-column-gap: 4em;
+      -moz-column-gap: 4em;
+           column-gap: 4em;
+  -webkit-column-rule: 1px dotted #ddd;
+     -moz-column-rule: 1px dotted #ddd;
+          column-rule: 1px dotted #ddd;
+           margin-top: 10px;
 }
 
 .Footer {
