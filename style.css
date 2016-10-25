@@ -96,6 +96,7 @@ p {
   -webkit-columns: 3 400px;
      -moz-columns: 3 400px;
           columns: 3 400px;
+          margin-top: 10px;
 }
 
 .Footer {
