@@ -13,8 +13,6 @@ p {
   font-family: Georgia;
   font-size: 3em;
   font-weight: bold;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 #Nav-bar {
@@ -92,6 +90,12 @@ p {
   font-family: Arial;
   font-size: 1.1em;
   color: #333;
+}
+
+.frontpage-colums {
+  -webkit-columns: 2 200px;
+     -moz-columns: 2 200px;
+          columns: 2 200px;
 }
 
 .Footer {
