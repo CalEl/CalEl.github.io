@@ -96,13 +96,14 @@ p {
       -webkit-columns: 3 400px;
          -moz-columns: 3 400px;
               columns: 3 400px;
-   -webkit-column-gap: 4em;
-      -moz-column-gap: 4em;
-           column-gap: 4em;
+   -webkit-column-gap: 2em;
+      -moz-column-gap: 2em;
+           column-gap: 2em;
   -webkit-column-rule: 1px dotted #ddd;
      -moz-column-rule: 1px dotted #ddd;
           column-rule: 1px dotted #ddd;
            margin-top: 10px;
+           padding: 10px;
 }
 
 .Footer {
