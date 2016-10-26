@@ -103,7 +103,7 @@ p {
      -moz-column-rule: 1px dotted #ddd;
           column-rule: 1px dotted #ddd;
            margin-top: 10px;
-           padding: 10px;
+              padding: 10px;
 }
 
 .Footer {
